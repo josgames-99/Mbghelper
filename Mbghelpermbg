@@ -12,11 +12,9 @@
         "Allowoffline": false
     },
 
+# abelong
     {
-        "device_id": "519b1bf9bca44b92",
-        "key": "MBG879",
-        "expirydate": "15-08-2026",
-        "Allowoffline": false
+        "device_id": "519b1bf9bca44b92"
 },
 
 ]
