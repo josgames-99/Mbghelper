@@ -19,6 +19,27 @@
         "Allowoffline": false
     },
 
+    {
+        "device_id": "94f9e206d62a3c79",
+        "key": "MBG567",
+        "expirydate": "29-08-2026",
+        "Allowoffline": false
+    },
+
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+
 
 
 ]
