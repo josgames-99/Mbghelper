@@ -22,22 +22,22 @@
     {
         "device_id": "94f9e206d62a3c79",
         "key": "MBG567",
-        "expirydate": "29-08-2026",
-        "Allowoffline": false
+        "expirydate": "19-08-2026",
+        "Allowoffline": true
     },
 
     {
         "device_id": "2d0d8a92a2b3f812",
         "key": "MBG638",
         "expirydate": "23-08-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 
     {
         "device_id": "9bbe180d5343f923",
         "key": "MBG189",
         "expirydate": "23-08-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 
 
