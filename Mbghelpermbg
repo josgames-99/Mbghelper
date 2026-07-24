@@ -16,7 +16,7 @@
         "device_id": "519b1bf9bca44b92",
         "key": "MBG",
         "expirydate": "15-09-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 
     {
