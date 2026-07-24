@@ -27,10 +27,10 @@
     },
 
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "device_id": "2d0d8a92a2b3f812",
+        "key": "MBG638",
+        "expirydate": "23-08-2026",
+        "Allowoffline": false
     },
 
     {
