@@ -49,5 +49,24 @@
     },
 
 
+    {
+        "device_id": "11ecd357e76c5b82",
+        "key": "MBG345",
+        "expirydate": "23-08-2026",
+        "Allowoffline": true
+    },
+
+
+    {
+        "device_id": "1dc0d640927e2f13",
+        "key": "MBG777",
+        "expirydate": "23-08-2026",
+        "Allowoffline": true
+    },
+
+
+
+
+
 ]
 
