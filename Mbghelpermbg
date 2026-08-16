@@ -103,7 +103,12 @@
         "expirydate": "11-09-2026",
         "Allowoffline": true
     },
-
+    {
+        "device_id": "cd3f626921b966ad",
+        "key": "MBG700",
+        "expirydate": "15-09-2026",
+        "Allowoffline": true
+    },
 
 
 
