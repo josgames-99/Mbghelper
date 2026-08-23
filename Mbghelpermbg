@@ -28,23 +28,23 @@
 
     {
         "device_id": "2d0d8a92a2b3f812",
-        "key": "MBG638",
-        "expirydate": "23-08-2026",
+        "key": "MBG009",
+        "expirydate": "22-09-2026",
         "Allowoffline": true
     },
 
     {
         "device_id": "9bbe180d5343f923",
-        "key": "MBG189",
-        "expirydate": "23-08-2026",
+        "key": "MBG110",
+        "expirydate": "22-09-2026",
         "Allowoffline": true
     },
 
 
     {
         "device_id": "56b2c57894a4944e",
-        "key": "MBG809",
-        "expirydate": "23-08-2026",
+        "key": "MBG220",
+        "expirydate": "22-09-2026",
         "Allowoffline": true
     },
 
@@ -59,8 +59,8 @@
 
     {
         "device_id": "1dc0d640927e2f13",
-        "key": "MBG777",
-        "expirydate": "23-08-2026",
+        "key": "MBG757",
+        "expirydate": "22-09-2026",
         "Allowoffline": true
     },
 
