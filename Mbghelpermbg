@@ -27,14 +27,7 @@
         "Allowoffline": true
     },
 
-    {
-        "device_id": "9bbe180d5343f923",
-        "key": "MBG110",
-        "expirydate": "22-09-2026",
-        "Allowoffline": true
-    },
-
-
+   
     {
         "device_id": "56b2c57894a4944e",
         "key": "MBG220",
